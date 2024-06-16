@@ -1,0 +1,17 @@
+{
+  "ver":1.0,
+  "se":{
+    "25":{"url":"https://biliicg.icu/images/character/sigonghuiye/act_pon.wav"},
+    "26":{"url":"https://biliicg.icu/images/character/bamuwei/act_pon.wav"},
+    "27":{"url":"https://biliicg.icu/images/character/sigonghuiye/act_kan.wav"},
+    "28":{"url":"https://biliicg.icu/images/character/bamuwei/act_kan.wav"},
+    "29":{"url":"https://biliicg.icu/images/character/sigonghuiye/act_chi.wav"},
+    "30":{"url":"https://biliicg.icu/images/character/bamuwei/act_chi.wav"},
+    "31":{"url":"https://biliicg.icu/images/character/sigonghuiye/act_rich.wav"},
+    "32":{"url":"https://biliicg.icu/images/character/bamuwei/act_rich.wav"},
+    "33":{"url":"https://biliicg.icu/images/character/sigonghuiye/act_ron.wav"},
+    "34":{"url":"https://biliicg.icu/images/character/bamuwei/act_ron.wav"},
+    "35":{"url":"https://biliicg.icu/images/character/sigonghuiye/act_tumo.wav"},
+    "36":{"url":"https://biliicg.icu/images/character/bamuwei/act_tumo.wav"}
+      }
+}
