@@ -1,0 +1,23 @@
+{
+  "ver":1.0,
+  "se":{
+    "3": {"url": "https://biliicg.icu/images/audio/countdown5.mp3"}, 
+    "8": {"url": "https://biliicg.icu/images/audio/btn_appear.mp3"},
+    "9": {"url": "https://biliicg.icu/images/audio/new_dora.mp3"},
+    "11": {"url": "https://biliicg.icu/images/audio/hule_fan_out.mp3"},
+    "25":{"url":"https://biliicg.icu/images/character/sigonghuiye/act_pon.mp3"},
+    "26":{"url":"https://biliicg.icu/images/character/bamuwei/act_pon.mp3"},
+    "27":{"url":"https://biliicg.icu/images/character/sigonghuiye/act_kan.mp3"},
+    "28":{"url":"https://biliicg.icu/images/character/bamuwei/act_kan.mp3"},
+    "29":{"url":"https://biliicg.icu/images/character/sigonghuiye/act_chi.mp3"},
+    "30":{"url":"https://biliicg.icu/images/character/bamuwei/act_chi.mp3"},
+    "31":{"url":"https://biliicg.icu/images/character/sigonghuiye/act_rich.mp3"},
+    "32":{"url":"https://biliicg.icu/images/character/bamuwei/act_rich.mp3"},
+    "33":{"url":"https://biliicg.icu/images/character/sigonghuiye/act_ron.mp3"},
+    "34":{"url":"https://biliicg.icu/images/character/bamuwei/act_ron.mp3"},
+    "35":{"url":"https://biliicg.icu/images/character/sigonghuiye/act_tumo.mp3"},
+    "36":{"url":"https://biliicg.icu/images/character/bamuwei/act_tumo.mp3"}}, 
+    "40": {"url": "https://biliicg.icu/images/audio/winlose.mp3"}, 
+    "41": {"url": "https://biliicg.icu/images/audio/yakuman.mp3"
+  }
+}
